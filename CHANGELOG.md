@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/briancaffey/release-testing/compare/v1.2.0...v1.3.0) (2022-09-18)
+
+
+### Features
+
+* **new feature:** add another new feature ACME-2 ([ee6f4d7](https://github.com/briancaffey/release-testing/commit/ee6f4d7c6ce236f76bb61b38c56c87bae3d4b35f))
+* **readme:** update readme ([40b4bb8](https://github.com/briancaffey/release-testing/commit/40b4bb8e54806e89a49308066eb40a7d43ec1df4))
+
 ## [1.2.0](https://github.com/briancaffey/release-testing/compare/v1.1.0...v1.2.0) (2022-09-18)
 
 
