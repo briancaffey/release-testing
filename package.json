@@ -1,0 +1,22 @@
+{
+  "name": "release-testing",
+  "version": "1.0.0",
+  "description": "release testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancaffey/release-testing.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "briancaffey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briancaffey/release-testing/issues"
+  },
+  "homepage": "https://github.com/briancaffey/release-testing#readme"
+}
