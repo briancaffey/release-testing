@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/briancaffey/release-testing/compare/v1.1.0...v1.2.0) (2022-09-18)
+
+
+### Features
+
+* **github action:** update github action to use workflow dispatch ([049d255](https://github.com/briancaffey/release-testing/commit/049d255d7ffae163b13f584f143a28e8aece2ce4))
+
 ## [1.1.0](https://github.com/briancaffey/release-testing/compare/v1.0.0...v1.1.0) (2022-09-18)
 
 
