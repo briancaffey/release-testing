@@ -1,7 +1,6 @@
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
+
 name: release-please
 jobs:
   release-please:
@@ -10,4 +9,4 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
-          package-name: terraform-aws-django
+          package-name: release-testing
