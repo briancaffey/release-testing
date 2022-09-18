@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/briancaffey/release-testing/compare/v1.0.0...v1.1.0) (2022-09-18)
+
+
+### Features
+
+* **readme:** update readme ([2ee60bc](https://github.com/briancaffey/release-testing/commit/2ee60bcfaf081f4e72afa1aa14c7fc5887acb7df))
+
 ## 1.0.0 (2022-09-18)
 
 
